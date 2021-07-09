@@ -1,0 +1,19 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "Markov Machine",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "markov"
+  },
+  "author": "Thomas U.",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jest": "^27.0.6"
+  }
+}
